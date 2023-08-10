@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Test2
+comment0.text=\r\n\ Fonction\ de\ test\ \r\n\ \r\n\ @author\ Votre_Nom\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=Test2()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Test\r\n
+comment2.params=
+comment2.target=Vecteur[]\ creerSommets()
+comment2.text=\r\n\ Cr\u00E9e\ les\ sommets\ d'un\ parall\u00E9l\u00E9pip\u00E8de\ rectangle\ centr\u00E9\ sur\ l'origine\ en\ coordonn\u00E9es\ homog\u00E8nes\ et\ les\ mets\ das\ un\ tableau.\r\n\ @return\ Tableau\ de\ Vecteur\r\n
+comment3.params=pPlan\ pSommets
+comment3.target=void\ dessinerParallelepipede(Plan,\ Vecteur[])
+comment3.text=\r\n\ Dessine\ le\ Parallelepipede\ dont\ les\ sommets\ sont\ dans\ le\ tableau\ de\ Vecteur\ sur\ le\ Plan\r\n\ @param\ pPlan\ \:\ plan\ ou\ effectuer\ le\ dessin\r\n\ @param\ pSommets\ \:\ sommets\ du\ Parallelepipede\r\n
+comment4.params=pVecteurs\ pTransformation
+comment4.target=Vecteur[]\ getTransformee(Vecteur[],\ Matrice)
+comment4.text=\r\n\ Applique\ la\ transformation\ lin\u00E9aire\ \u00E0\ l'ensemble\ des\ vecteurs\ du\ tableau\ \r\n\ et\ met\ le\ r\u00E9sultat\ dans\ un\ nouveau\ tableau\ de\ vecteurs\r\n\ @param\ pVecteurs\ \:\ tableau\ de\ Vecteur\ \u00E0\ transformer\r\n\ @param\ pTransformation\ \:\ transformation\ lin\u00E9aire\ \u00E0\ appliquer\r\n\ @return\ tableau\ de\ vecteurs\ contenant\ les\ vecteurs\ transform\u00E9s\r\n
+comment5.params=
+comment5.target=void\ test()
+comment5.text=\r\n\ Fonction\ de\ test\r\n
+numComments=6
